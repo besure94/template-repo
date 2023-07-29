@@ -1,25 +1,31 @@
-# (Application Name)
+# Template Repository
 
-#### (Brief Description of Application)
+#### Use this template repository for starting new projects. Update with new technologies and packages when necessary.
 
 #### By (Your Name Here)
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Webpack
+* Webpack-cli
+* Node Package Manager
+* .babelrc
+* .eslintrc
 
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Select the green "Use this template" button and select "create a new repository".
+* In the terminal, go to your project folder and run the command $ npm install to install node_modules.
+* Run the command $ npm run build to bundle together JS files.
+* Enter the command $ npm run start to start a live development server.
+* Enter the command $ npm run lint to check for errors.
+* Enter the command $ npm run test to test business logic.
 
 ## Known Bugs
 
