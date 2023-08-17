@@ -23,7 +23,6 @@
 * Run the command `$ npm run build` to bundle together JS files.
 * Enter the command `$ npm run start` to start a live development server.
 * Enter the command `$ npm run lint` to check for errors.
-* Enter the command `$ npm run test` to test business logic.
 
 ## Known Bugs
 
